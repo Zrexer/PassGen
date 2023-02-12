@@ -3,8 +3,7 @@ from os import system
 from colorama import Fore as f 
 from random import *
 import string
-from time import sleep
-import pyfiglet
+
 
 blue = '\033[94m'
 green =  '\033[92m'
